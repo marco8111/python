@@ -1,0 +1,6 @@
+A = float(input("digite valor de A:"))
+B = float(input("digite valor de B:"))
+C = float(input("digite valor de C:"))
+D = float(input("digite valor de D:"))
+print("O produto de A com C é:", A * C)
+print("A soma de B com D é:", B + D)
